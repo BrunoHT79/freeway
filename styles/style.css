@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+}
+
+canvas {
+  display: block;
+}
+
+h1{
+  text-align: center;
+  font-size: 48px;
+  color: red;
+}
+
+p{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+
+.conteiner{
+  margin: 40%;
+}
