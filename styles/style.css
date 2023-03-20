@@ -1,7 +1,10 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-color: grey;
+  background-color: white;
+  background-image: url("../Imagens/atari-2016.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 canvas {
