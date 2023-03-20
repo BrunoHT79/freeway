@@ -5,6 +5,8 @@ html, body {
 }
 
 canvas {
+  margin-top: 130px;
+  margin-left: 35%;
   display: block;
 }
 
@@ -15,12 +17,15 @@ h1{
 }
 
 p{
+  margin-top: 80px;
   text-align: center;
   font-size: 25px;
   font-weight: bold;
   color: black;
 }
 
-.conteiner{
-  margin: 40%;
+.autor{
+  font-size: 12px;
+  margin: 0 10px 0 0;
+  text-align: right;
 }
